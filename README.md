@@ -66,7 +66,7 @@ This project demonstrates the use of supervised machine learning to detect phish
 
 ## Results Visualization
 
-Confusion matrix for the model (pink-themed for vibes 💅):
+Confusion matrix for the model (pink-themed):
 
 <img src="phishing_confusion_matrix.png" alt="Confusion Matrix" width="500"/>
 
