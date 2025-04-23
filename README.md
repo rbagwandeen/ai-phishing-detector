@@ -79,4 +79,3 @@ Confusion matrix for the model (pink-themed):
 - Experiment with deep learning or NLP for phishing email content
 - Integrate threat intelligence feeds for smarter detection
 
----
